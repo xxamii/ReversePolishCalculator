@@ -1,6 +1,6 @@
 # ReversePolishCalculator
 
-It is a calculator, made for my Computer Discrete Mathematics class during my first semester of university. It is made, using the Reverse Polish Notation algorithm to parse an incoming expression.
+It is a calculator, made for my Computer Discrete Mathematics class during my first semester of university. It is made using the Reverse Polish Notation algorithm to parse an input expression and calculate it.
 
 # How to Use It
 
@@ -11,4 +11,4 @@ It is a calculator, made for my Computer Discrete Mathematics class during my fi
 
 # What I Learned
 
-- How to use the Reverse Polish Notation algorithm.
+- The Reverse Polish Notation algorithm.
